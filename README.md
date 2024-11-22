@@ -1,8 +1,6 @@
 # Hi there 👋
 ## I am Maya, a girl who's into programming!
-
 ---
-
 **What do I know?**
 1. **Programming Languages:**
    - Java
