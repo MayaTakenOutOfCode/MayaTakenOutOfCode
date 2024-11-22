@@ -21,7 +21,7 @@
 
 ---
 
-##**My Future dreams**
+## **My Future dreams**
 1. Make my own company
 2. Let the company be the best at visuals and speed of products
 3. Open an office in: England, South Korea, Poland
