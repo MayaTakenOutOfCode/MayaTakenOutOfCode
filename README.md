@@ -10,7 +10,7 @@
    - Typescript
    - Python
 2. **What do I do?**
-   - WebApps (Astro, NextJS, Vue.js)
+   - WebApps (Astro, NextJS, Vue.js, Svelte)
    - Android Apps (JetBrains Android Studio - Java)
    - Desktop Apps (WinForms, Electron)
    - Mods for Minecraft (Hobby - Java)
